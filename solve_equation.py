@@ -1,0 +1,5 @@
+x = int(input("enter a number :"))
+y = int(input("enter a number:"))
+s = abs(x*y)
+z = s *(x+y)
+print("the equation is ",z)
